@@ -1,0 +1,10 @@
+{
+  "permissions": {
+    "allow": [
+      "Read(//c/Users/Bassem Noghnogh/Documents/GitHub/website/**)",
+      "Bash(python app.py:*)"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}

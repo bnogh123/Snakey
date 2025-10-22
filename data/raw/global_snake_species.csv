@@ -1,0 +1,32 @@
+species_name,common_name,continent,countries,avg_length_cm,max_length_cm,venomous,venom_type,lethality_score,conservation_status,invasive,habitat
+Oxyuranus microlepidotus,Inland Taipan,Australia,Australia,180,250,Yes,Neurotoxic,10.0,Least Concern,No,Semi-arid regions
+Oxyuranus scutellatus,Coastal Taipan,Australia,"Australia,Papua New Guinea",200,290,Yes,Neurotoxic,9.8,Least Concern,No,Coastal habitats
+Pseudonaja textilis,Eastern Brown Snake,Australia,Australia,150,200,Yes,Neurotoxic,9.3,Least Concern,No,Various habitats
+Notechis scutatus,Tiger Snake,Australia,Australia,120,200,Yes,Neurotoxic,8.7,Least Concern,No,Wetlands
+Naja oxiana,Caspian Cobra,Asia,"Afghanistan,Pakistan,Iran,Turkmenistan,Uzbekistan,Tajikistan",120,150,Yes,Neurotoxic,8.9,Least Concern,No,Steppes and deserts
+Naja naja,Indian Cobra,Asia,"India,Pakistan,Bangladesh,Sri Lanka,Nepal",120,175,Yes,Neurotoxic,8.2,Least Concern,No,Various habitats
+Naja kaouthia,Monocled Cobra,Asia,"India,Bangladesh,Myanmar,Thailand,Laos,Vietnam,Cambodia,China",120,150,Yes,Neurotoxic,8.4,Least Concern,No,Various habitats
+Ophiophagus hannah,King Cobra,Asia,"India,Bangladesh,Myanmar,Thailand,Laos,Vietnam,Cambodia,Malaysia,Indonesia,Philippines,China",350,550,Yes,Neurotoxic,9.0,Vulnerable,No,Forests
+Bungarus caeruleus,Common Krait,Asia,"India,Pakistan,Bangladesh,Sri Lanka,Nepal,Afghanistan",90,175,Yes,Neurotoxic,9.1,Least Concern,No,Various habitats
+Daboia russelii,Russell's Viper,Asia,"India,Pakistan,Bangladesh,Sri Lanka,Nepal,Myanmar,Thailand,Taiwan,China",120,166,Yes,Hemotoxic,8.6,Least Concern,No,Open habitats
+Echis carinatus,Saw-scaled Viper,Asia,"India,Pakistan,Sri Lanka,Afghanistan,Iran,Iraq,UAE,Oman,Yemen",38,80,Yes,Hemotoxic,8.3,Least Concern,No,Dry regions
+Dendroaspis polylepis,Black Mamba,Africa,"South Africa,Botswana,Zimbabwe,Mozambique,Kenya,Tanzania,Uganda,Somalia,Ethiopia",250,430,Yes,Neurotoxic,9.6,Least Concern,No,Savannas
+Dendroaspis angusticeps,Eastern Green Mamba,Africa,"Kenya,Tanzania,Mozambique,Zimbabwe,South Africa",180,250,Yes,Neurotoxic,8.5,Least Concern,No,Coastal forests
+Naja nigricollis,Black-necked Spitting Cobra,Africa,"Sub-Saharan Africa (widespread)",120,220,Yes,Cytotoxic,7.8,Least Concern,No,Savannas
+Bitis arietans,Puff Adder,Africa,"Sub-Saharan Africa,Arabian Peninsula",90,190,Yes,Hemotoxic,8.1,Least Concern,No,Savannas and grasslands
+Bitis gabonica,Gaboon Viper,Africa,"Central and West Africa",122,205,Yes,Hemotoxic,7.9,Least Concern,No,Rainforests
+Dispholidus typus,Boomslang,Africa,"Sub-Saharan Africa",120,200,Yes,Hemotoxic,7.6,Least Concern,No,Trees in savannas
+Vipera berus,Common European Adder,Europe,"UK,France,Germany,Poland,Russia,Scandinavia,Italy,Balkans",50,90,Yes,Hemotoxic,4.5,Least Concern,No,Various habitats
+Vipera aspis,Asp Viper,Europe,"France,Spain,Italy,Switzerland,Slovenia",60,85,Yes,Hemotoxic,5.2,Least Concern,No,Rocky areas
+Bothrops asper,Fer-de-lance,South America,"Mexico,Central America,Colombia,Ecuador,Venezuela",180,250,Yes,Hemotoxic,8.7,Least Concern,No,Tropical forests
+Bothrops atrox,Common Lancehead,South America,"Colombia,Venezuela,Guyana,Suriname,French Guiana,Brazil,Peru,Bolivia",120,200,Yes,Hemotoxic,8.2,Least Concern,No,Rainforests
+Lachesis muta,Bushmaster,South America,"Costa Rica,Panama,Colombia,Ecuador,Peru,Bolivia,Brazil,Guyana,Suriname,French Guiana",250,365,Yes,Hemotoxic,8.8,Least Concern,No,Rainforests
+Crotalus durissus,South American Rattlesnake,South America,"Mexico,Central America,Colombia,Venezuela,Guyana,Suriname,French Guiana,Brazil,Peru,Bolivia,Paraguay,Argentina,Uruguay",120,180,Yes,Neurotoxic,8.4,Least Concern,No,Dry regions
+Micrurus surinamensis,Aquatic Coral Snake,South America,"Suriname,French Guiana,Brazil",90,140,Yes,Neurotoxic,8.9,Least Concern,No,Aquatic habitats
+Eunectes murinus,Green Anaconda,South America,"Venezuela,Colombia,Ecuador,Peru,Bolivia,Brazil,Guyana,Suriname,French Guiana,Trinidad",450,550,No,None,0.0,Least Concern,No,Swamps and rivers
+Boa constrictor,Boa Constrictor,South America,"Mexico,Central America,South America (widespread)",200,400,No,None,0.0,Least Concern,No,Various habitats
+Python reticulatus,Reticulated Python,Asia,"Southeast Asia (widespread)",450,690,No,None,0.0,Least Concern,No,Rainforests
+Python molurus,Indian Python,Asia,"India,Pakistan,Sri Lanka,Nepal,Bangladesh,Myanmar,Thailand",274,457,No,None,0.0,Near Threatened,No,Various habitats
+Morelia spilota,Carpet Python,Australia,"Australia,Papua New Guinea,Indonesia",200,400,No,None,0.0,Least Concern,No,Various habitats
+Laticauda colubrina,Yellow-lipped Sea Krait,Asia-Pacific,"Indo-Pacific region (widespread)",120,150,Yes,Neurotoxic,7.5,Least Concern,No,Marine/coastal
+Hydrophis platurus,Yellow-bellied Sea Snake,Pacific,"Eastern Pacific,Indian Ocean (widespread)",71,113,Yes,Neurotoxic,6.8,Least Concern,No,Open ocean

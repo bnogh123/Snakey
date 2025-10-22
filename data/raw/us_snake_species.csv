@@ -1,0 +1,31 @@
+species_name,common_name,states,avg_length_cm,max_length_cm,venomous,venom_type,lethality_score,conservation_status,invasive,habitat
+Crotalus adamanteus,Eastern Diamondback Rattlesnake,"FL,GA,SC,NC,LA,MS,AL",122,244,Yes,Hemotoxic,8.5,Least Concern,No,Pine flatwoods and coastal habitats
+Crotalus atrox,Western Diamondback Rattlesnake,"TX,NM,AZ,CA,OK,AR",120,213,Yes,Hemotoxic,7.8,Least Concern,No,Deserts and grasslands
+Agkistrodon piscivorus,Cottonmouth,"FL,GA,SC,NC,VA,AL,MS,LA,TX,AR,TN,MO,IL",74,188,Yes,Hemotoxic,6.5,Least Concern,No,Wetlands and swamps
+Agkistrodon contortrix,Copperhead,"TX,OK,KS,NE,MO,AR,LA,MS,AL,GA,FL,SC,NC,VA,WV,KY,TN,IL,IN,OH,PA,NY,NJ,MD,DE,CT,MA",76,135,Yes,Hemotoxic,4.2,Least Concern,No,Forests and rocky areas
+Micrurus fulvius,Eastern Coral Snake,"FL,GA,SC,NC,LA,MS,AL,TX,AR",76,121,Yes,Neurotoxic,9.2,Least Concern,No,Sandy and scrubby areas
+Crotalus horridus,Timber Rattlesnake,"TX,OK,KS,NE,MO,IA,WI,MN,AR,LA,MS,AL,GA,FL,SC,NC,VA,WV,KY,TN,IL,IN,OH,PA,NY,NJ,MD,DE,CT,MA,VT,NH,ME",107,189,Yes,Hemotoxic,7.1,Least Concern,No,Deciduous forests
+Crotalus scutulatus,Mojave Rattlesnake,"CA,NV,AZ,NM,TX",82,137,Yes,Neurotoxic,9.5,Least Concern,No,Desert scrublands
+Crotalus viridis,Prairie Rattlesnake,"CA,OR,ID,NV,UT,AZ,NM,CO,WY,MT,ND,SD,NE,KS,OK,TX,IA,MO",91,162,Yes,Hemotoxic,6.8,Least Concern,No,Grasslands and prairies
+Sistrurus catenatus,Massasauga,"AZ,NM,TX,OK,KS,NE,CO,MO,IA,WI,IL,IN,MI,OH,PA,NY,ON",61,100,Yes,Hemotoxic,5.5,Least Concern,No,Wetlands and grasslands
+Crotalus cerastes,Sidewinder,"CA,NV,AZ,UT",51,84,Yes,Hemotoxic,4.8,Least Concern,No,Sandy deserts
+Pituophis catenifer,Gopher Snake,"CA,OR,WA,ID,NV,UT,AZ,NM,CO,WY,MT,ND,SD,NE,KS,TX,OK",122,275,No,None,0.0,Least Concern,No,Various habitats
+Pantherophis obsoletus,Western Rat Snake,"TX,OK,KS,NE,MO,IA,WI,IL,IN,AR,LA,MS,AL,TN,KY",107,256,No,None,0.0,Least Concern,No,Forests and farmlands
+Pantherophis alleghaniensis,Eastern Rat Snake,"FL,GA,SC,NC,VA,WV,MD,DE,NJ,PA,NY,CT,RI,MA,VT,NH,ME,OH,IN,KY,TN",107,256,No,None,0.0,Least Concern,No,Forests and rocky areas
+Thamnophis sirtalis,Common Garter Snake,"All 50 states",56,124,No,None,0.0,Least Concern,No,Various habitats
+Nerodia sipedon,Northern Water Snake,"ME,NH,VT,MA,RI,CT,NY,NJ,PA,DE,MD,WV,VA,NC,SC,GA,AL,TN,KY,OH,IN,IL,WI,MI,MN,IA,MO,KS,OK,CO",61,135,No,None,0.0,Least Concern,No,Aquatic habitats
+Lampropeltis getula,Common Kingsnake,"NJ,MD,DE,VA,WV,NC,SC,GA,FL,AL,MS,LA,TX,AR,TN,KY,MO,IL,IN,OH,PA,CA,OR,NV,AZ,NM,UT",91,208,No,None,0.0,Least Concern,No,Various habitats
+Lampropeltis triangulum,Milk Snake,"All lower 48 states",51,132,No,None,0.0,Least Concern,No,Various habitats
+Coluber constrictor,Eastern Racer,"All lower 48 states",91,191,No,None,0.0,Least Concern,No,Open habitats
+Masticophis flagellum,Coachwhip,"CA,NV,OR,ID,UT,AZ,NM,CO,WY,MT,ND,SD,NE,KS,OK,TX,AR,LA,MS,AL,GA,FL,SC,NC,VA,TN,KY,MO,IL",122,259,No,None,0.0,Least Concern,No,Open areas
+Heterodon platirhinos,Eastern Hognose Snake,"FL,GA,SC,NC,VA,WV,MD,DE,NJ,PA,NY,CT,MA,NH,VT,OH,IN,IL,WI,MI,MN,IA,MO,KS,NE,SD,ND,KY,TN,AL,MS,LA,AR,TX,OK",71,116,No,Mild,1.0,Least Concern,No,Sandy areas
+Python bivittatus,Burmese Python,FL,366,580,No,None,0.0,Vulnerable,Yes,Wetlands (invasive in Everglades)
+Python molurus,Indian Python,FL,274,457,No,None,0.0,Near Threatened,Yes,Wetlands (occasionally found)
+Boa constrictor,Boa Constrictor,FL,244,406,No,None,0.0,Least Concern,Yes,Various habitats (invasive in S. FL)
+Crotalus oreganus,Northern Pacific Rattlesnake,"CA,OR,WA,ID,NV,UT,AZ,MT,BC",91,162,Yes,Hemotoxic,6.9,Least Concern,No,Various habitats
+Crotalus ruber,Red Diamond Rattlesnake,CA,76,137,Yes,Hemotoxic,5.8,Least Concern,No,Coastal chaparral
+Arizona elegans,Glossy Snake,"CA,NV,OR,ID,UT,AZ,NM,CO,KS,OK,TX",76,178,No,None,0.0,Least Concern,No,Desert and grassland
+Chionactis occipitalis,Western Shovel-nosed Snake,"CA,NV,AZ",26,43,No,None,0.0,Least Concern,No,Sandy deserts
+Diadophis punctatus,Ring-necked Snake,"All lower 48 states",25,86,No,Mild,0.5,Least Concern,No,Various habitats
+Storeria dekayi,Brown Snake,"All states east of Rockies",23,53,No,None,0.0,Least Concern,No,Urban and suburban areas
+Regina septemvittata,Queen Snake,"AR,IL,IN,KY,MI,MO,MS,NY,NC,OH,PA,SC,TN,VA,WV,WI,ON",38,92,No,None,0.0,Least Concern,No,Streams and rivers
