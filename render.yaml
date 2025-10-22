@@ -3,9 +3,7 @@ services:
     name: snakey-dashboard
     env: python
     buildCommand: pip install -r requirements.txt
-    startCommand: gunicorn app:server
+    startCommand: gunicorn --bind 0.0.0.0:$PORT app:server
     envVars:
       - key: PYTHON_VERSION
         value: 3.11.0
-      - key: PORT
-        value: 8050
